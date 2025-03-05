@@ -48,4 +48,4 @@ You can use the following application management features in your .NET applicati
 - Dependencies
   - Tizen 4.0 and Higher
 - API Reference
-  - [Tizen.Applications](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.html) class
+  - [Tizen.Applications](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.html) namespace
