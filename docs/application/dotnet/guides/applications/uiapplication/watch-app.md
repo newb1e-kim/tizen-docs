@@ -234,7 +234,7 @@ Follow these steps to override the ambient mode methods of the [Tizen.Applicatio
 
 -   The `OnAmbientChanged()` method is triggered when the ambient mode is enabled or disabled on the device. You can use the method to initialize your ambient mode UI.
 
--   The `OnAmbientTick()` method is triggered when the device enters the ambient mode and every minute while the device is in the ambient mode. You can use the method to get the current time from the [Tizen.NUI.WatchTime](/application/dotnet/api/TizenFX/latest/api/Tizen.NUI.WatchTime.html) class and draw the ambient mode watch. In this method, do not perform time-consuming tasks and always update the UI as quickly as possible. The platform can put the device to sleep shortly after the ambient tick expires.
+-   The `OnAmbientTick()` method is triggered when the device enters the ambient mode and every minute while the device is in the ambient mode. You can use the method to get the current time from the [Tizen.Applications.WatchTime](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.WatchTime.html) class and draw the ambient mode watch. In this method, do not perform time-consuming tasks and always update the UI as quickly as possible. The platform can put the device to sleep shortly after the ambient tick expires.
 
 ```csharp
 protected override void OnAmbientTick(TimeEventArgs time)
@@ -263,6 +263,6 @@ protected override void OnAmbientChanged(AmbientEventArgs mode)
   - [Tizen.NUI.NUIWatchApplication](/application/dotnet/api/TizenFX/latest/api/Tizen.NUI.NUIWatchApplication.html) class
   - [Tizen.Applications.WatchApplication](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.WatchApplication.html) class
   - [Tizen.NUI.WatchTime](/application/dotnet/api/TizenFX/latest/api/Tizen.NUI.WatchTime.html) class
-  - [Tizen.Applications.WatchTime](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.WatchTime.html) class (Deprecated)
+  - [Tizen.Applications.WatchTime](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.WatchTime.html) class
   - [Tizen.Applications.CoreApplication](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.CoreApplication.html) class
 
