@@ -1044,3 +1044,7 @@ The data model must be opened to the public to help other applications to use th
 - Dependencies
   - Tizen 2.4 and Higher for Mobile
   - Tizen 2.3.1 and Higher for Wearable
+- API Reference
+  - [Data Control](../../api/common/latest/group__CAPI__DATA__CONTROL__MODULE.html)
+  - [Data Control Consumer](../../api/common/latest/group__CAPI__DATA__CONTROL__CONSUMER__MODULE.html)
+  - [Data Control provider](../../api/common/latest/group__CAPI__DATA__CONTROL__PROVIDER__MODULE.html)
