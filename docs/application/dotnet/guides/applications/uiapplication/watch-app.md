@@ -260,5 +260,7 @@ protected override void OnAmbientChanged(AmbientEventArgs mode)
 * Dependencies
   -   Tizen 4.0 and Higher
 * API Reference
+  - [Tizen.NUI.NUIWatchApplication](/application/dotnet/api/TizenFX/latest/api/Tizen.NUI.NUIWatchApplication.html) class
   - [Tizen.Applications.WatchApplication](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.WatchApplication.html) class
   - [Tizen.Applications.CoreApplication](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.CoreApplication.html) class
+
