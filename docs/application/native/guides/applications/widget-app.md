@@ -513,5 +513,3 @@ For example, a music-player-service service application is needed to control the
   - Tizen 2.3.1 and Higher for Wearable
 - API Reference
   - [Widget Application](../../api/common/latest/group__CAPI__WIDGET__APP__MODULE.html)
-  - [Widget Service](../../api/common/latest/group__CAPI__WIDGET__SERVICE__MODULE.html)
-  - [Widget Viewer](../../api/common/latest/group__CAPI__WIDGET__VIEWER__EVAS__MODULE.html)
