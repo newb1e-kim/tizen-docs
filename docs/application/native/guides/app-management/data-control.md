@@ -1047,4 +1047,4 @@ The data model must be opened to the public to help other applications to use th
 - API Reference
   - [Data Control](../../api/common/latest/group__CAPI__DATA__CONTROL__MODULE.html)
   - [Data Control Consumer](../../api/common/latest/group__CAPI__DATA__CONTROL__CONSUMER__MODULE.html)
-  - [Data Control provider](../../api/common/latest/group__CAPI__DATA__CONTROL__PROVIDER__MODULE.html)
+  - [Data Control Provider](../../api/common/latest/group__CAPI__DATA__CONTROL__PROVIDER__MODULE.html)
