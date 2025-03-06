@@ -25,7 +25,7 @@ The main features of the Package Manager API include:
 
 To enable your application to use the package manager functionality, ensure that the following prerequisites are met:
 
-1. To use the Package Manager API (in [mobile](../../api/mobile/latest/group__CAPI__PACKAGE__MANAGER__MODULE.html) and [wearable](../../api/wearable/latest/group__CAPI__PACKAGE__MANAGER__MODULE.html) applications), the application must request permission by adding the following privilege to the `tizen-manifest.xml` file:
+1. To use the [Package Manager API](../../api/common/latest/group__CAPI__PACKAGE__MANAGER__MODULE.html), the application must request permission by adding the following privilege to the `tizen-manifest.xml` file:
 
    ```
    <privileges>
@@ -204,7 +204,7 @@ To monitor package events, such as installation, uninstallation, and updates:
 
 2. Set the package event to monitor by calling the `package_manager_set_event_status()` function.
 
-   The second parameter defines the package status that you want to monitor. The possible values are listed in the `package_manager_status_type_e` enumeration (in [mobile](../../api/mobile/latest/group__CAPI__PACKAGE__MANAGER__MODULE.html#ga405444ebd6254b9cfbaedec829558882) and [wearable](../../api/wearable/latest/group__CAPI__PACKAGE__MANAGER__MODULE.html#ga405444ebd6254b9cfbaedec829558882) applications):
+   The second parameter defines the package status that you want to monitor. The possible values are listed in the `package_manager_status_type_e` [enumeration](../../api/common/latest/group__CAPI__PACKAGE__MANAGER__MODULE.html#ga405444ebd6254b9cfbaedec829558882):
 
     ```
     package_manager_set_event_status(manager, PACKAGE_MANAGER_STATUS_TYPE_ALL);
