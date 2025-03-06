@@ -648,7 +648,7 @@ create_base_gui(appdata_s *ad)
 
 2. When the button is clicked, use an application control to launch the sub application.
 
-   Define the launch mode for the application to be called using the `app_control_set_launch_mode()` function. The second parameter defines the launch mode with the [`app_control_launch_mode_e` enumerator](../../api/common/latest/group__CAPI__APP__CONTROL__MODULE.html#gadf26b03f2f6b18acba4a946e7eb7b31c).
+   Define the launch mode for the application to be called using the `app_control_set_launch_mode()` function. The second parameter defines the launch mode with the `app_control_launch_mode_e` [enumerator](../../api/common/latest/group__CAPI__APP__CONTROL__MODULE.html#gadf26b03f2f6b18acba4a946e7eb7b31c).
 
    ```
    static void
