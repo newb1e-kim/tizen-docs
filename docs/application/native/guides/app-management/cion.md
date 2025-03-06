@@ -18,7 +18,7 @@ The main features of the Cion API include:
 
 ## Prerequisites
 
-1.  To use the Cion API (in [mobile](../../api/mobile/latest/group__CAPI__CION__MODULE.html), [wearable](../../api/wearable/latest/group__CAPI__CION__MODULE.html) and [iot](../../api/iot-headed/latest/group__CAPI__CION__MODULE.html) applications), the application has to request permission by adding the following privilege to the `tizen-manifest.xml` file:
+1.  To use the [Cion API](../../api/common/latest/group__CAPI__CION__MODULE.html), the application has to request permission by adding the following privilege to the `tizen-manifest.xml` file:
 
     ```xml
     <privileges>
