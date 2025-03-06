@@ -143,4 +143,4 @@ If you want to use this API, you need to add the below privilege on `tizen-manif
     -   Tizen 4.0 and Higher
   * API Reference
     - [Tizen.Applications.PackageManager](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.PackageManager) class
-    - [Tizen.Applications.PackageManager](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.Package) class
+    - [Tizen.Applications.Package](/application/dotnet/api/TizenFX/latest/api/Tizen.Applications.Package) class
