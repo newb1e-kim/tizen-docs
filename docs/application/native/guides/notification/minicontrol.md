@@ -107,8 +107,5 @@ To hide the quick panel:
   - Tizen 2.4 and Higher for Mobile
   - Tizen 5.0 and Higher for Wearable
 - API Reference
-  - [Notification](../../api/common/latest/group__NOTIFICATION__MODULE.html)
-  - [Notification Ex](../../api/common/latest/group__NOTIFICATION__EX__MODULE.html)
-  - [Attach Panel](../../api/common/latest/group__CAPI__PANEL__ATTACH__MODULE.html)
   - [Minicontrol](../../api/common/latest/group__MINICONTROL__LIBRARY.html)
   - [Minicontrol Provider](../../api/common/latest/group__CAPI__MINICONTROL__PROVIDER__MODULE.html)
