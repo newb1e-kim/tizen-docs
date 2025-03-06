@@ -95,7 +95,7 @@ To get the appropriate resource file path in your code:
 
     - Resource type
 
-      The resource type defines whether the resource is an image, layout, sound, or some other file type. There are 4 resource types, which are defined in the [`app_resource_e` enumerator](../../api/common/latest/group__CAPI__RESOURCE__MANAGER__MODULE.html#ga83dadea23a885e1eb257ad1f115513e9).
+      The resource type defines whether the resource is an image, layout, sound, or some other file type. There are 4 resource types, which are defined in the `app_resource_e` [enumerator](../../api/common/latest/group__CAPI__RESOURCE__MANAGER__MODULE.html#ga83dadea23a885e1eb257ad1f115513e9).
 
       Resources with the same resource type are grouped as a folder. The folder name is irrelevant to the actual resource type within it.
 
