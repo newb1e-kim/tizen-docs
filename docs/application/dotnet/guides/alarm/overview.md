@@ -13,3 +13,5 @@ You can use the following alarm features in your .NET applications:
 ## Related information
 * Dependencies
   -   Tizen 4.0 and Higher
+* API Reference
+  - [Alarm](../../api/common/latest/group__CAPI__ALARM__MODULE.html)
