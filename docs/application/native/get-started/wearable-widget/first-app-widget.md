@@ -1,7 +1,7 @@
 # Create Your First Tizen Wearable Native Widget Application
 
 > [!NOTE]
-> EFL module, which is used to design UI of widget application, have been deprecated since Tizen 10.0 and will be removed after two releases without any alternatives.
+> EFL module, on which widget applications depend for designing the UI, has been deprecated since Tizen 10.0 and will be removed after two releases without any alternatives.
 
 **Welcome to Tizen Wearable Native widget application development!**
 
